@@ -20,6 +20,6 @@ Once the chatbot is running, you can start interacting with it through the comma
 
 ## Demo
 
-For simple chatbot - https://simplechatbot-kenneth.streamlit.app/
+Simple chatbot - https://simplechatbot-kenneth.streamlit.app/
 
-For Basic Q and A Bot for College Admission - https://enquirybot-kenneth.streamlit.app/
+Basic Q and A Bot for College Admission - https://enquirybot-kenneth.streamlit.app/
