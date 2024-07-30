@@ -2,11 +2,11 @@
 
 This repository contains two chatbot projects:
 
-1. College Admission Chatbot
-This chatbot is designed to assist users with college admission queries. It provides information about admission procedures, requirements, and deadlines based on a provided PDF document. The chatbot engages users in a conversational flow, allowing multiple questions within a single session. Additionally, it maintains conversation history for improved interaction.
-
-2. Simple Chatbot
+1. Simple Chatbot
 This chatbot offers basic conversational capabilities. It greets users, provides farewell messages, and maintains conversation history. The chatbot is designed to be friendly and provide appropriate responses even when it doesn't understand user input.
+
+2. College Admission Chatbot
+This chatbot is designed to assist users with college admission queries. It provides information about admission procedures, requirements, and deadlines based on a provided PDF document. The chatbot engages users in a conversational flow, allowing multiple questions within a single session. Additionally, it maintains conversation history for improved interaction.
 
 ## Features
 
