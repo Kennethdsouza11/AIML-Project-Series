@@ -16,7 +16,7 @@ This chatbot is designed to assist users with college admission queries. It prov
 
 ## Usage
 
-Once the chatbot is running, you can start interacting with it through the command line. The chatbot will greet you when you first start the conversation and will remember your past interactions. You can type your messages, and the chatbot will respond accordingly. If it doesn't understand your input, it will provide a friendly response. To end the conversation, you can say "goodbye," and the chatbot will bid you farewell.
+Once the chatbot is running, you can start interacting with it. The chatbot will greet you when you first start the conversation and will remember your past interactions. You can type your messages, and the chatbot will respond accordingly. If it doesn't understand your input, it will provide a friendly response. To end the conversation, you can say "goodbye," and the chatbot will bid you farewell. 
 
 ## Demo
 
